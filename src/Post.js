@@ -9,7 +9,7 @@ class Post extends Component {
       content: 'blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah',
       comments: [
         {
-          text: 'Hello everybody',
+          text: 'Hello you all',
           author: 'Anon1'
         },
         {
